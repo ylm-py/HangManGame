@@ -1,1 +1,3 @@
 # HangManGame
+Two players game , where the first player have to choose a word and the other one should guess it , either by guessing letter by letter or the word . I made it for fun .
+The given word should not have any symbols (hyphen,underscore....) and no spaces it should be one word . I might upgrade my code later so it will accept multiple words or sentenses ...
